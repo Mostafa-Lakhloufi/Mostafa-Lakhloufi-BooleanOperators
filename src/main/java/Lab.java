@@ -17,7 +17,7 @@ public class Lab {
     public boolean returnBoolean(boolean b){
     
         if (b==true){
-            //return true;
+            return true;
         }
         return false;
     }
